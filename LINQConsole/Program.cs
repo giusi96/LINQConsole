@@ -7,7 +7,7 @@ namespace LINQConsole
 {
     class Program
     {
-        public delegate int Sum(int val1, int val2); // a sum(che è un tipo) posso associare tutte le funzioni che prendono due tipi interi e mi restituiscono un intero
+        public delegate int Sum(int val1, int val2); // a sum(che è un tipo) posso associare tutte le funzioni che prendono due tipi interi e mi restituiscono un intero.
 
         public static int PrimaSomma(int valore1, int valore2)
         {
